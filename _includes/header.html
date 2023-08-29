@@ -1,3 +1,56 @@
+<style>
+  .site-header {
+    font-family: monospace;
+    font-size: 30px;
+    
+    position: absolute;
+    transition: top 0.2s ease-in-out;
+    margin-top: 25px;
+    padding-top: 10px;
+    left: -80px;
+    margin-top: 275px;
+  }
+
+  .headerbutton {
+    border: 1px solid cyan;
+
+    background: rgb(0, 0, 0);
+    color:black;
+    font-weight: bold;
+    width: 270px;
+
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  .headerbutton:hover {
+    background-color: rgb(0, 255, 255);
+  }
+
+  img{
+    position:relative;
+    border: 3px solid;
+    border-color: cyan;
+  }
+
+  .pfp {
+    border-radius: 50%;
+    position:absolute;
+    left: -80px;
+  }
+
+
+</style>
+
+<img src="https://ca.slack-edge.com/TUDAF53UJ-U05MQST6J5V-5c6a070c7457-192" class="pfp"> 
+
+
 <header class="site-header">
 
   <div id="header">
@@ -7,6 +60,7 @@
         <li class="fork"><a href="{{site.baseurl}}/compsci">CompSci</a></li>
         <li class="fork"><a href="{{site.baseurl}}/blogs">Blogs</a></li>
         <li class="title"><a href="{{site.baseurl}}/help">Help</a></li>
+        <li class="title"><a href="{{site.baseurl}}/calc">Calculator</a></li>
         <li class="title"><a href="{{ site.github.repository_url }}#readme">View On GitHub</a></li>
       </ul>
     </nav>

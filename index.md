@@ -4,12 +4,111 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Aashrays Blog 
+I am Aashray. I am taking csp so i can code code code. I enjoy music, games, science, and math. I hope to learn a lot from this class.  
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+<img src="https://ca.slack-edge.com/TUDAF53UJ-U05MQST6J5V-5c6a070c7457-192"  style="height: 100px; width:100px;"/>
+
+
+This will be my blog/website
+
+<img src="images/drawing.png" width = "300" height = "500">
+
+
+## What I hope to learn from CSP
+
+I hope to learn how to code some advanced algorithims, and also understand multiple coding languages. I already know some basics of Python , and HTML. I would like to implement a way to mix biology and computer science which are my two favorite subjects. 
+
+## My Favorite things
+
+My Fabvorite Album: Utopia
+
+My Favorite Food: Ramen
+
+More things to be Added
+
+## Blog Frequency
+
+I hope to blog everytime a major update is made, so that I can keep proper track of my assignments, and changes that I make. 
+
+
+
+<style>
+
+  body {
+      background-color: #000000;
+      color: #00FFFF;
+      animation: fadeInAnimation ease 3s;
+      animation-iteration-count: 1;
+      animation-fill-mode: forwards;
+  }
+  @keyframes fadeInAnimation {
+      0% {
+          opacity: 0;
+      }
+      100% {
+          opacity: 0.75;
+      }
+  }
+
+  h1::before {  
+  transform: scaleX(0);
+  transform-origin: bottom right;
+}
+
+h1:hover::before {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+h1::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  inset: 0 0 0 0;
+  background: rgb(0, 0, 0);
+  z-index: -1;
+  transition: transform .3s ease;
+}
+
+h1 {
+  position: relative;
+  color: rgb(0,255,255);
+  font-size: 3rem;
+  font-family: Monospace;
+}
+
+p {
+  font-family: Monospace;
+}
+
+html {
+  block-size: 100%;
+  inline-size: 100%;
+}
+
+body {
+  min-block-size: 100%;
+  min-inline-size: 100%;
+  margin: 0;
+  box-sizing: border-box;
+  display: grid;
+  place-content: center;
+  font-family: system-ui, sans-serif;
+}
+
+.block-container {
+    padding-top: 1rem;
+    padding-bottom: 0rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+@media (orientation: landscape) {
+  body {
+    grid-auto-flow: column;
+  }
+}
+</style>
