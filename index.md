@@ -38,7 +38,7 @@ I hope to blog everytime a major update is made, so that I can keep proper track
 
   body {
       background-color: #000000;
-      color: #00FFFF;
+      color: #FF3131;
       animation: fadeInAnimation ease 3s;
       animation-iteration-count: 1;
       animation-fill-mode: forwards;
