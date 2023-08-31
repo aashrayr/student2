@@ -33,7 +33,7 @@ More things to be Added
 I hope to blog everytime a major update is made, so that I can keep proper track of my assignments, and changes that I make. 
 
 
-
+<!--
 <style>
 
   body {
@@ -98,5 +98,35 @@ body {
   body {
     grid-auto-flow: column;
   }
+} -->
+<style>
+
+  body {
+      background-color: #171515;
+      color: #ffffff;
+      animation: fadeInAnimation ease 3s;
+      animation-iteration-count: 1;
+      animation-fill-mode: forwards;
+  }
+  @keyframes fadeInAnimation {
+      0% {
+          opacity: 0;
+      }
+      100% {
+          opacity: 0.75;
+      }
+  }
+
+h1 {
+  position: relative;
+  color: rgb(0,255,255);
+  font-size: 3rem;
+  font-family: Monospace;
 }
+
+p {
+  font-family: Monospace;
+}
+</style>
+
 </style>
