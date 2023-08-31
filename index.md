@@ -99,8 +99,8 @@ body {
     grid-auto-flow: column;
   }
 } -->
-<style>
 
+<style>
   body {
       background-color: #171515;
       color: #ffffff;
@@ -116,14 +116,12 @@ body {
           opacity: 0.75;
       }
   }
-
 h1 {
   position: relative;
   color: rgb(0,255,255);
   font-size: 3rem;
   font-family: Monospace;
 }
-
 p {
   font-family: Monospace;
 }
