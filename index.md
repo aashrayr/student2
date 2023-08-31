@@ -43,6 +43,7 @@ I hope to blog everytime a major update is made, so that I can keep proper track
       animation-iteration-count: 1;
       animation-fill-mode: forwards;
   }
+  }
   @keyframes fadeInAnimation {
       0% {
           opacity: 0;
@@ -51,17 +52,14 @@ I hope to blog everytime a major update is made, so that I can keep proper track
           opacity: 0.75;
       }
   }
-
   h1::before {  
   transform: scaleX(0);
   transform-origin: bottom right;
 }
-
 h1:hover::before {
   transform: scaleX(1);
   transform-origin: bottom left;
 }
-
 h1::before {
   content: " ";
   display: block;
@@ -72,23 +70,15 @@ h1::before {
   z-index: -1;
   transition: transform .3s ease;
 }
-
 h1 {
   position: relative;
   color: rgb(0,255,255);
   font-size: 3rem;
   font-family: Monospace;
 }
-
 p {
   font-family: Monospace;
 }
-
-html {
-  block-size: 100%;
-  inline-size: 100%;
-}
-
 body {
   min-block-size: 100%;
   min-inline-size: 100%;
@@ -98,14 +88,12 @@ body {
   place-content: center;
   font-family: system-ui, sans-serif;
 }
-
 .block-container {
     padding-top: 1rem;
     padding-bottom: 0rem;
     padding-left: 5rem;
     padding-right: 5rem;
 }
-
 @media (orientation: landscape) {
   body {
     grid-auto-flow: column;
