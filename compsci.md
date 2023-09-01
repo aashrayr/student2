@@ -1,6 +1,6 @@
 ---
 layout: schedule
-title: Computer Science Lab Notebook
+title: Computer Science TIME BOX
 units: "1,2"
 course: compsci
 ---
