@@ -7,7 +7,7 @@ title: Calculator
 
 <html lang="en">
 <head>
-   <link rel="stylesheet" href="Calc.css">
+   <link rel="stylesheet" href="calculator.css">
    <title>Calulator</title>
 </head>
 
