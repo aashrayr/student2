@@ -39,7 +39,7 @@ li { margin: 0.4em 0; }
 
 table, th, td {
   width: 100%;
-  border: thin solid black;
+  border: thin solid red; /* Adjusted border color to red */
   border-collapse: collapse;
   padding: 1em;
 }
@@ -55,7 +55,7 @@ div.highlighter-rouge pre code, pre code.highlighter-rouge {
 
 blockquote {
   font-style: italic;
-  border: thin solid black;
+  border: thin solid red; /* Adjusted border color to red */
   padding: 1em;
 
   p { margin: 0; }
@@ -68,29 +68,29 @@ img {
 }
 @mixin light-appearance {
   html, body {
-      --bg: #FFF;
-      --bg-secondary: #f3f4f6;
-      --headings: #1e293b;
-      --text: #374151;
-      --text-secondary: #6b7280;
-      --links: #6366f1;
-      --highlight: #FFECB2; // light yellow
-      --code-text: #9D174D;
-      --share-text: #999;
+      --bg: #000; /* Changed background color to black */
+      --bg-secondary: #1a1a1a; /* Adjusted secondary background color to dark gray */
+      --headings: #FF4500; /* Changed heading color to red */
+      --text: #FFD700; /* Changed text color to gold/yellow */
+      --text-secondary: #808080; /* Adjusted secondary text color to gray */
+      --links: #FF4500; /* Changed links color to red */
+      --highlight: #FF6347; /* Changed highlight color to tomato */
+      --code-text: #FFD700; /* Changed code text color to gold/yellow */
+      --share-text: #808080; /* Adjusted share text color to gray */
   }
 }
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #74c0fc;
-      --links: #91A7FF;
-      --highlight: #41C7C7;
-      --bg: #1f242A;
-      --bg-secondary: #323945;
-      --text: #adb5bd;
-      --text-secondary: #9CA3AF;
-      --code-text: #91A7FF;
-      --share-text: #C4C4C4;
+      --headings: #FF4500; /* Changed heading color to red */
+      --links: #FF4500; /* Changed links color to red */
+      --highlight: #FF6347; /* Changed highlight color to tomato */
+      --bg: #000; /* Changed background color to black */
+      --bg-secondary: #1a1a1a; /* Adjusted secondary background color to dark gray */
+      --text: #FFD700; /* Changed text color to gold/yellow */
+      --text-secondary: #808080; /* Adjusted secondary text color to gray */
+      --code-text: #FF4500; /* Changed code text color to red */
+      --share-text: #C4C4C4; /* Adjusted share text color to gray */
   };
 }
 
@@ -145,7 +145,7 @@ html.transition *:after {
   position: fixed;
   right: 0;
   top: 0;
-  border: 2px transparent solid;
+  border: 2px var(--border) solid;
   outline: none;
 }
 
