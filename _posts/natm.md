@@ -1,0 +1,32 @@
+---
+toc: true
+comments: false
+layout: post
+title: NIght at the museum
+description: N@TM.
+courses: { compsci: {week: 7} }
+type: hacks
+---
+
+# N@TM Reflection - February 16, 2024
+
+## What Went Well
+
+Our chatbox/social media project had good reviews overall from our peers, and especially from people who use social media apps. Our biggest achievement was probably our login page, which linked to our posting center, as it allowed a quick access to the media. Our design was very sleek, and easy to use.
+
+## Areas for Improvement (Feedback Received)
+
+1. **Like System Bug:**
+   - Address the existing bug in our like system, where likes do not update without a page refresh. Consider frontend adjustments to resolve this issue.
+
+2. **Message Editing Functionality:**
+   - Implement backend functionality to allow users to edit their messages. This enhancement will contribute to the overall user experience.
+
+3. **UI Refinement:**
+   - Enhance the UI by incorporating smaller icons for actions such as liking, replying, and editing. This adjustment aims to provide a more streamlined and visually appealing interface.
+
+## External Inspiration
+
+During the presentation, I came across a cool CSP project. This project was inspired by spotify but with some special lyrics features. Despite its simple concept, music extraction and quality was very good.
+
+I also looked at photography and saw mine and other peopls cool photos/
