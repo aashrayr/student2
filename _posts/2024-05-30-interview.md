@@ -32,13 +32,15 @@ My machine learning experience includes working on various projects that involve
 - **Image Classification**: Created a convolutional neural network (CNN) to classify images with high accuracy, demonstrating my ability to work with complex deep learning models.
 - **NLP Sentiment Analysis**: Analyzed the sentiment of customer reviews using a recurrent neural network (RNN) with long short-term memory (LSTM) layers, showcasing my skills in natural language processing.
 
+Our project was the titanic project, where we added additions to the titanic base, and added the ability to find probabilities of survival with different types of features, in addition to the original. 
+
 ## GitHub Project and Profile Review
 
 You can find my projects and contributions on my GitHub profile: [GitHub Profile](https://github.com/aashrayr). Some highlights include:
 
-- **E-commerce Website**: [Repository Link](https://github.com/aashrayr/ecommerce-website)
-- **ML Model for Predictive Analysis**: [Repository Link](https://github.com/aashrayr/ml-predictive-analysis)
-- **Portfolio Website**: [Repository Link](https://github.com/aashrayr/portfolio-website)
+- **Music Website**: [Organization Link](https://github.com/APCSP-RAGS)
+- **Social Media**: [Organization Link](https://github.com/SAAK-APCSP)
+- **Trimester 3 Projects**: [Organization Link](https://github.com/Project-MKAAT)
 
 ## Showcasing Projects
 
@@ -55,6 +57,9 @@ My favorite project is the **Social Media Website**. Here’s a brief demo:
 
 You can view the live demo during the interview to get a comprehensive understanding of the functionalities and user experience.
 
+## N@TM
+I was involved with helping with the quick sort algorithm, and the GetSorted functions. I was also involved with formatting the frontend, which we used previous templates to make the tiles. 
+
 ## Additional Interests
 
 Beyond full-stack development and machine learning, I am also deeply interested in Biomedical Engineering. I am actively learning more about the intersection of ML and biomedical applications. Additionally, I have some experience with R programming, which I am expanding as part of my learning journey. This unique combination of skills and interests positions me well to tackle interdisciplinary challenges and innovate in various fields.
@@ -62,6 +67,100 @@ Beyond full-stack development and machine learning, I am also deeply interested 
 ## Unique Qualification
 
 What sets me apart is my ability to seamlessly integrate my technical skills with strong teamwork and communication capabilities. I not only bring a deep understanding of full-stack development and machine learning but also a proven track record of successfully collaborating in diverse teams to deliver high-quality projects. My passion for continuous learning and adaptability to new technologies ensures that I am always ready to tackle the next challenge.
+
+# Summary of Topics Covered
+
+## Coding Fundamentals and Tools
+
+### Python
+- **Python IO**: Basic input and output operations in Python.
+- **Python Tricks**: Advanced Python techniques and best practices.
+- **Python/Flask in Jupyter**: Using Flask within Jupyter Notebooks for web development.
+- **Extracting Data**: Techniques for extracting and processing data in Python.
+- **Python Pandas**: Data manipulation and analysis using Pandas.
+
+### JavaScript
+- **JavaScript Basics**: Core concepts including variables, data types, and functions.
+- **JavaScript Calculator**: Building a calculator application.
+- **JavaScript Input/Output**: Handling user inputs and displaying outputs with jQuery.
+- **JavaScript Object-Oriented Programming**: Advanced concepts in JS programming.
+
+### HTML/CSS
+- **Building Web Pages**: Creating and styling web pages using HTML and CSS.
+
+### Linux and Shell Scripting
+- **Linux Shell and Bash**: Command-line operations, shell scripting, and automation.
+
+## Web Development
+
+### Frontend Development
+- **HTML/CSS**: Designing responsive and visually appealing web pages.
+- **JavaScript**: Enhancing interactivity on web pages.
+- **React.js**: Building complex user interfaces.
+- **jQuery**: Simplifying DOM manipulation and event handling.
+
+### Backend Development
+- **Node.js and Express**: Server-side development and creating RESTful APIs.
+- **Python Flask**: Building and deploying web applications using Flask.
+- **Nginx**: Using Nginx as a web server and reverse proxy for load balancing and security.
+
+### Data Layers
+- **SQL Databases**: Managing relational databases using SQL.
+- **NoSQL Databases**: Working with NoSQL databases like MongoDB.
+- **Python Pandas**: Data manipulation and analysis using Pandas.
+
+## Advanced Programming Concepts
+
+### Data Structures and Algorithms
+- **Data Types, Lists, Dictionaries**: Fundamental data structures in Python and JavaScript.
+- **Boolean Ifs**: Implementing logical conditions and operations.
+- **Iteration**: Using loops for repetitive tasks and data processing.
+- **Algorithms**: Understanding and developing algorithms for problem-solving.
+- **Developing Algorithms**: Creating, optimizing, and implementing algorithms.
+- **Lists and Search**: Manipulating lists and implementing search algorithms.
+- **Procedures**: Developing procedures and modular code for reusability.
+- **Libraries**: Utilizing and managing libraries in programming.
+- **Simulation**: Creating and running simulations to model real-world scenarios.
+
+### AP CSP Requirements
+- **Binary and Data Compression**: Understanding binary systems and data compression techniques.
+- **Data Abstraction**: Using abstract data types and structures.
+- **AP CSP Big Ideas**:
+  - **The Internet**: Understanding the structure and functioning of the Internet.
+  - **Beneficial and Harmful Effects**: Exploring the impacts of computing technology.
+  - **Digital Divide**: Examining the disparities in access to technology.
+  - **Computing Bias**: Recognizing and mitigating bias in computing systems.
+  - **Crowdsourcing**: Leveraging the power of crowds for data collection and problem-solving.
+  - **Legal and Ethical Concerns**: Addressing the legal and ethical implications of computing.
+  - **Safe Computing**: Promoting practices for secure and responsible computing.
+
+## Tools and DevOps
+
+### Development and Collaboration Tools
+- **VSCode**: Setting up and using Visual Studio Code for development.
+- **GitHub**: Version control, managing repositories, and GitHub Pages for website hosting.
+- **Agile Methodology**: Applying Agile principles for project management and collaboration.
+- **Pair Programming**: Collaborative coding practices.
+
+### Deployment and Virtualization
+- **AWS Deployment**: Deploying web applications on Amazon Web Services.
+- **Virtualization**: Using virtual machines and containers for development and deployment.
+- **Cloud Workspace Automation**: Automating cloud workflows and environment setups.
+- **Nginx Deployment**: Setting up and configuring Nginx for web application deployment.
+
+## Collaboration and Showcase
+
+- **Pair Programming**: Collaborating with peers through pair programming sessions.
+- **Sprint Reviews and Showcases**: Presenting projects and progress through interactive demos and showcases, including events like Night at the Museum (N@tM).
+
+## Specialized Topics and Projects
+
+### Web Application and Data Projects
+- **Web Development Layers**: Understanding the frontend, backend, and data layers of web applications.
+- **API Integration**: Using APIs such as the iTunes API for data retrieval and integration.
+- **ML and Fitness**: Applying machine learning concepts to fitness and health data.
+- **Innovation Projects**: Working on creative projects that apply learned concepts to new problems.
+
 
 ---
 
